@@ -1,0 +1,1 @@
+A ruby gem packaging up the [eslint](http://eslint.org/) node modules.
