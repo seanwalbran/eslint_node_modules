@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'eslint_node_modules'
+exec(EslintNodeModules.eslint_path, *ARGV)
